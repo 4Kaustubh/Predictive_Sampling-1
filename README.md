@@ -186,7 +186,7 @@ results_table.to_csv('Submission_102203194_kaustubh.csv')
 
 # Best Model for each sample 
 # Sample 1: Gradient Boosting 
-# Sample 2: Gradient Boosting 
-# Sample 3: Logistic Regression
-# Sample 4: Decision Tree / Gradient Boosting 
-# Sample 5: Gradient Boosting (overfits) / both logistic Regression and Decision Tree
+# Sample 2: Logistic Regression
+# Sample 3: Decision Tree / Gradient Boosting 
+# Sample 4: Logistic Regression
+# Sample 5: Decision Tree / Gradient Boosting 
